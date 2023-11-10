@@ -5,6 +5,15 @@ In this assignment, we want to collect golden boxes one by one and gather them i
 We use a portable robot simulator developed by [Student Robotics](https://studentrobotics.org).
 Some of its arenas and the exercises have been modified for the Research Track I course
 
+![](sr/first.png)
+> First image of the robot and environment
+
+![](sr/final.png)
+> Final image of the robot and environment
+
+![](sr/flowchart.png)
+> Flowchart of the program code
+
 Installing and running
 ----------------------
 
