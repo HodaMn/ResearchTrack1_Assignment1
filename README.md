@@ -1,4 +1,4 @@
-Research Track 1 Frist Assignment 
+Research Track 1, First Assignment 
 ================================
 
 In this assignment, we want to collect golden boxes one by one and gather them in one location (e.g. In the middle of the image in the gray square)
