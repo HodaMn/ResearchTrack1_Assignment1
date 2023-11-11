@@ -6,12 +6,12 @@ We use a portable robot simulator developed by [Student Robotics](https://studen
 Some of its arenas and the exercises have been modified for the Research Track I course
 
 <p align="center">
-    <img src="robot-sim/sr/first.png?raw=true" alt="Fig.1: First image of the robot and environment" width="250" style="display:inline-block; margin: 0 10px;" />
+    <img src="sr/first.png?raw=true" alt="Fig.1: First image of the robot and environment" width="250" style="display:inline-block; margin: 0 10px;" />
     <br />
     <strong>Fig.1:</strong> First image of the robot and environment
 </p>
 <p align="center">
-    <img src="robot-sim/sr/final.png?raw=true" alt="Fig.2: Final image of the robot and environment" width="250" style="display:inline-block; margin: 0 10px;" />
+    <img src="sr/final.png?raw=true" alt="Fig.2: Final image of the robot and environment" width="250" style="display:inline-block; margin: 0 10px;" />
     <br />
     <strong>Fig.2:</strong> Final image of the robot and environment
 </p>
