@@ -15,9 +15,11 @@ Some of its arenas and the exercises have been modified for the Research Track I
     <br />
     <strong>Fig.2:</strong> Final image of the robot and environment
 </p>
-
-![](sr/flowchart.png)
-> Flowchart of the program code
+<p align="center">
+    <img src="sr/flowchart.png?raw=true" alt="Fig.2: Flowchart of the program code" width="250" style="display:inline-block; margin: 0 10px;" />
+    <br />
+    <strong>Fig.2:</strong> Final image of the robot and environment
+</p>
 
 Installing and running
 ----------------------
